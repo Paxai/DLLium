@@ -1,6 +1,9 @@
 <img width="1536" height="502" alt="dllium_banner" src="https://github.com/user-attachments/assets/3d5cfcc0-3c85-492c-b3b4-a0754f596f6c" />
 
-Advanced DLL Injection for Modern Windows Applications
+<h1 align="center">Modern DLL Injection Made Simple</h1>
+<p align="center">
+  Advanced DLL Injection for Research & Development
+</p>
 
 > [!CAUTION]
 > This DLL Injector is intended for **educational and research purposes only**.
