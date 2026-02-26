@@ -5,6 +5,12 @@
   Advanced DLL Injection for Research & Development
 </p>
 
+<p align="center">
+A lightweight and modern DLL injection tool designed for educational use,
+software research, and controlled testing environments.
+Built for performance, precision, and simplicity.
+</p>
+
 > [!CAUTION]
 > This DLL Injector is intended for **educational and research purposes only**.
 > Do not use this tool on third-party software, systems, or services without explicit authorization.
